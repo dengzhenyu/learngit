@@ -4,3 +4,4 @@ hello
 memeda
 zenme jiu gaibuliao
 hello
+create a new branch is quick.
